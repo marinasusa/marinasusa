@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: black; font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif; font-size:16px; line-height:20px; width:700px; background-color: rgba(216,104,106,1.00)
+}
+h1, h2{
+	font-family:
+	Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif
+	color: rgba(217,64,66,1.00)
+	
+	}
+	
+	span {color: rgb(225, 0, 225);}
+	body{
+		background-image: url(slike/pozadina.jpg);}
+		
+
